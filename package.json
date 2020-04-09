@@ -11,8 +11,11 @@
     "url": "https://github.com/joaoamaral/circlaceactivitytrackerplugin.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/" 
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "João Amaral <jamaral@pasonatquila.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
