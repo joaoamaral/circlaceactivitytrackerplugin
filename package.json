@@ -1,6 +1,6 @@
 {
   "name": "@joaoamaral/circlaceactivitytrackerplugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Circlace Activity Tracker Vue Plugin for Pageviews",
   "main": "index.js",
   "scripts": {

@@ -13,7 +13,6 @@ export default {
         },
         "data": {
           "activity": "pageview",
-          "operation": "PAGEVIEW related operation 2020-04-09T05:36:58+00:00",
           "useruuid": `${uuid}`,
           "context": {
             url: `${window.location.hostname}${to.fullPath}`,
